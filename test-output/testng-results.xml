@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40198" started-at="2022-02-03T21:55:35Z" finished-at="2022-02-03T21:56:15Z">
+    <groups>
+    </groups>
+    <test name="Cucumber Assignement tests" duration-ms="40198" started-at="2022-02-03T21:55:35Z" finished-at="2022-02-03T21:56:15Z">
+      <class name="com.cucumber.runner.Runner">
+        <test-method status="PASS" signature="runCuke()[pri:0, instance:com.cucumber.runner.Runner@6e1567f1]" name="runCuke" duration-ms="40138" started-at="2022-02-03T21:55:35Z" finished-at="2022-02-03T21:56:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCuke -->
+      </class> <!-- com.cucumber.runner.Runner -->
+    </test> <!-- Cucumber Assignement tests -->
+  </suite> <!-- Suite -->
+</testng-results>
